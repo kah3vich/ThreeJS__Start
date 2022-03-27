@@ -22,4 +22,4 @@ npm run start
 npm run build
 ```
 
-# 🌊
+# [🌊](https://t.me/+xXSthKatXLtiNDBi)
